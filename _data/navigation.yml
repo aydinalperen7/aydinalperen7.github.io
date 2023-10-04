@@ -1,8 +1,11 @@
 docs_list_title: Menu 
 docs:
 
-- title: LinkedIN
+- title: Home
   url: index.html
+
+- title: LinkedIN
+  url: mentoring.md
 
 - title: Teaching
   url: research.html
